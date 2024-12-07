@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/nhathoang3518/porflio/blob/gh-pages/static/media/ReactJS-Nguyen-Nhat-Hoang.457333cc085b3b42c8f4.pdf";
+  "https://raw.githubusercontent.com/nhathoang3518/porflio/blob/gh-pages/static/media/Nguyen-Nhat-Hoang-TopCV.vn-071224.165725.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
